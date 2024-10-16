@@ -1,4 +1,6 @@
-## BRAYSS12
+# Brayss12
 
-# __Who am I?__
+## Learning:
+### Java, Python, JavaScript
 
+> **soon new project**
